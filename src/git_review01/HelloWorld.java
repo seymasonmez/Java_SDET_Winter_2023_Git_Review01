@@ -15,7 +15,7 @@ If the color is green, that means it is saved in their staging area, but has not
 If the color is red. that means
 the changes are made in the working directory, but they have not been saved in staging area yet.
 If it is in blue color. that means
-the chains that are made in the changes that are made in the working directory.
+the changes that are made in the changes that are made in the working directory.
 and it the file was also saved in the staging area.
 The file was also saved in the local repository.
 But after saving those files in the staging area and local repository, you still need some change to the working directory. That's why, you have the blue color.
